@@ -1,4 +1,4 @@
-My name is Ridy Rousseau. As right now, I am in a journey to become a full stack developer. To be frank, I am working full stop because I am after all the technological skills I can get given that I am late in the game. Well, You know what they say: "better late than never arrive". 😂😂😂, trust me they did say that. 
+My name is Ridy Rousseau. As right now, I am in a journey to become a full stack developer. To be frank, I am working full stop because I am after all the technological skills I can get given that I am late in the game. Well, You know what they say: "better late than never arrive". 😂😂😂, trust me they did say that.
 
 Even thhough the journey is ongoing, I already acquired full knowledge of HTML5, CSS, Git, GitHub and Repositories, HOw to do responsive layout with Flexbox and Grid, Media queries, the use of BEM methodology, JavaScript, and more. 
 
