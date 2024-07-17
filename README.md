@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full time software engineer professional. 
 - 🌱 I’m currently studying at Tripleten, and learning languages such as HTML, CSS, JS, and more
 - 💞️ I’m looking to collaborate on any new/old projects
-- 📫 How to reach me ...(Will add soon...), But for now, you can reach me on discord via r2rx01
+- 📫 How to reach me ...(Will add more soon...), But for now, you can reach me on discord via r2rx01
   
 - ⚡ Fun fact: I keep on dreaming about a peaceful world... Crazy huh! Since when this world was ever peaceful!
 
